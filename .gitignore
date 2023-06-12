@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DotNetLearning/CSharp/bin/Debug/net6.0
+/DotNetLearning/CSharp/obj
+/DotNetLearning/.vs/DotNetLearning/FileContentIndex
+/.vs
+/DotNetLearning/.vs
